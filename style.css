@@ -1,0 +1,32 @@
+* {
+    font-family: sans-serif;
+}
+
+#disclaimer {
+    color: red;
+}
+
+.header.main, .description, .recipe {
+    text-align: center;
+}
+
+.header.main {
+    font-weight: bold;
+    background: #cfcdc8;
+    padding: 8px;
+    border: solid 2px black;
+
+}
+
+.description {
+    color: grey;
+    font-style: italic;
+}
+
+.header {
+    padding: 4px;
+    border: solid 1px black;
+    background: #abebbc;
+    border-radius: 3px;
+}
+
