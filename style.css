@@ -4,6 +4,11 @@
 
 #disclaimer {
     color: red;
+    text-align: center;
+    padding: 8px;
+    background: white;
+    border: solid 1px black;
+    border-radius: 20px;
 }
 
 .header.main, .description, .recipe {
@@ -30,3 +35,10 @@
     border-radius: 3px;
 }
 
+.adobo, .rice, .egg {
+    padding: 4px;
+    border: solid 1px black;
+    background: #cfcdc8;
+    color: black;
+    border-radius: 2px;
+}
